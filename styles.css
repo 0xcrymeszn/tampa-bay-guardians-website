@@ -64,4 +64,4 @@ body { overflow-x:hidden; }
 .about-hero-crest { top:50%; left:auto; right:max(32px, calc((100vw - 1100px)/2)); bottom:auto; transform:translateY(-50%); width:440px; opacity:.24; }
 @media (max-width:980px) { .about-hero-crest { right:4%; width:330px; } }
 @media (max-width:760px) { .hero-crest { top:57%; left:50%; width:340px; transform:translate(-50%,-50%); }.about-hero-crest { top:auto; left:auto; right:-30px; bottom:-34px; transform:none; width:165px; opacity:.2; } }
-@media (max-width:560px) { .hero-crest { width:300px; }.about-hero { padding-bottom:145px; }.about-hero-crest { top:auto; left:50%; right:auto; bottom:22px; transform:translateX(-50%); width:155px; opacity:.25; } }
+@media (max-width:560px) { .hero-crest { width:300px; }.about-hero { padding-bottom:185px; }.about-hero-crest { top:auto; left:50%; right:auto; bottom:24px; transform:translateX(-50%); width:215px; opacity:.25; } }
